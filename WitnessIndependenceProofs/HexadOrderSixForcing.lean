@@ -4,7 +4,7 @@ Copyright (c) 2026 Field Effect Institute. All rights reserved.
 # Hexad Order-6 Cyclic Forcing
 
 Companion files in this repository:
-- `BennettPeriodicTableZ9Z.lean` (positive backbone: supplies the S₃ action on the hexad)
+- `BennettPeriodicTableZ9Z.lean` (positive backbone: supplies the explicit S₃ group and the doubling cycle)
 - `EnneagramHexadDerivability.lean` (negative companion: the commutativity obstruction)
 
 ## Claim
